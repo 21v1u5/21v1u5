@@ -43,9 +43,9 @@ Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e práti
 
 ---
 
-# 🎓 Experiência Acadêmica
+## 🎓 Experiência Acadêmica
 
-## 🎓 Formação Passada (incompleta)
+### 🎓 Formação Passada (incompleta)
 
 Iniciei minha trajetória na graduação em **Matemática Bacharelado**, onde cursei até o 4º período. Apesar de não ter concluído, aproveitei ao máximo disciplinas que hoje são fundamentais para minha atuação com tecnologia:
 
@@ -62,17 +62,20 @@ Esses conhecimentos são essenciais para **maximizar a eficiência de algoritmos
 
 ---
 
-## 🎓 Formação Atual (cursando)
+### 🎓 Formação Atual (cursando)
 
-Atualmente curso **Engenharia de Software (1º/9)**, com foco em desenvolvimento e fundamentos de sistemas.
+Atualmente curso **Engenharia de Software (1º/9)**, com foco em desenvolvimento e fundamentos de sistemas:
 
 - 🐧 Linux Internals  
 - 🌐 Redes e Infraestrutura    
 - 🧠 Arquitetura de Computadores  
-- 🔗 Protocolos Web (HTTP, FTP)
-- lógica de programação e algoritmos
-- estrutura de dados
-  
+- 🔗 Protocolos Web (HTTP, FTP)  
+- 🔢 Lógica de Programação e Algoritmos  
+- 🗂️ Estrutura de Dados  
+
+---
+
+## 🖥️ Tecnologias & Linguagens
 
 ### 💻 Tecnologias do Dia a Dia
 
@@ -81,31 +84,48 @@ Atualmente curso **Engenharia de Software (1º/9)**, com foco em desenvolvimento
 - 🗃️ **MySQL** – MariaDB  
 - 🔧 **Git** – GitHub  
 - 🐳 **Docker**
-  
 
-### 🛠️ Outras Linguagens que estudo em projetos pessoais
+### 🛠️ Tecnologias em Estudo (Projetos Pessoais)
 
 - ⚙️ **C** – Sistemas embarcados (ESP32, Arduino)  
 - 🐍 **Python** – Análise de Dados  
 - 🧬 **Assembly** – Análise profunda de programas  
 - 💻 **PowerShell & Bash** – Scripts de automação e segurança  
 - 🖱️ **Duckyscript** – BadUSB  
-- 🛡️ **SQL & XSS Injection** – Segurança e testes de vulnerabilidades  
+- 🛡️ **SQL & XSS Injection** – Segurança e testes de vulnerabilidades
 
 ---
 
-## 🚀 Áreas de Interesse
+## 📚 Noções e Fundamentos que Estudo
 
-- 🔐 Segurança de Dados  
-- 🧪 Testes de Vulnerabilidades  
-- 🌐 Aplicações Web  
-- 📱 Aplicações Mobile  
-- 📊 Análise de Dados  
-- 🔧 Desenvolvimento de Firmware / Sistemas Embarcados  
+Além da formação acadêmica, estudo constantemente os principais pilares do desenvolvimento profissional moderno:
+
+- 📌 Algoritmos & Estrutura de Dados  
+- ⚙️ Big-O Notation (Notação Assintótica)  
+- 🧱 Design de Sistemas Distribuídos  
+- 🧩 Princípios SOLID  
+- 🌐 RESTful APIs  
+- 🧪 Testes Unitários (Unit Test)  
+- 📊 Métricas & Logs  
+- 🕒 Programação Assíncrona (Async)  
+- 📬 Filas (Queues) e Mensageria  
+
+> Esses conhecimentos são essenciais para construir sistemas escaláveis, robustos e de fácil manutenção.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🎯 Áreas de Atuação e Interesses Profissionais
+
+- 🔐 Cibersegurança e Hacking Ético  
+- ⚙️ Engenharia de Software e Desenvolvimento Backend  
+- 🌐 Desenvolvimento Web Full Stack  
+- 📲 Desenvolvimento Mobile Android  
+- 📊 Análise e Ciência de Dados  
+- 🛠️ Sistemas Embarcados e Internet das Coisas (IoT)  
+
+---
+
+# 📊 Estatísticas do GitHub (repositórios públicos)
 
 <p align="left">
   <img 
