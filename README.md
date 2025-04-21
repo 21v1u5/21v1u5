@@ -1,6 +1,6 @@
 # 👨‍💻 Sobre mim
 
-Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e prática que combina **raciocínio lógico,hacking, criptografia, algoritmos e engenharia de software**.
+Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e prática que combina **raciocínio lógico, algoritmos e engenharia de software**.
 
 
 <p align="center">
@@ -70,8 +70,9 @@ Atualmente curso **Engenharia de Software (1º/9)**, com foco em desenvolvimento
 - 🌐 Redes e Infraestrutura    
 - 🧠 Arquitetura de Computadores  
 - 🔗 Protocolos Web (HTTP, FTP)
-
----
+- lógica de programação e algoritmos
+- estrutura de dados
+  
 
 ### 💻 Tecnologias do Dia a Dia
 
@@ -81,7 +82,6 @@ Atualmente curso **Engenharia de Software (1º/9)**, com foco em desenvolvimento
 - 🔧 **Git** – GitHub  
 - 🐳 **Docker**
   
----
 
 ### 🛠️ Outras Linguagens que estudo em projetos pessoais
 
@@ -127,12 +127,5 @@ Atualmente curso **Engenharia de Software (1º/9)**, com foco em desenvolvimento
     style="max-width: 100%;" 
   />
 </p>
-
----
-
-## 🤝 Colaborações
-
-Se você tem algum projeto **open-source** ou busca alguém comprometido em **segurança, dados ou sistemas embarcados**, será um prazer contribuir com meu conhecimento.  
-**Fique à vontade para me chamar!**
 
 ---
