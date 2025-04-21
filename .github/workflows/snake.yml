@@ -16,7 +16,7 @@ jobs:
       - name: 🐍 Gerar animação da cobrinha
         uses: Platane/snk@v3
         with:
-          github_user_name: RoberthFurtadoDev
+          github_user_name: 21v1u5
           outputs: |
             dist/github-contribution-snake.svg
             dist/github-contribution-snake-dark.svg
