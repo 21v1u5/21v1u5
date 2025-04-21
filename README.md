@@ -105,24 +105,33 @@ Atualmente curso **Engenharia de Software (1º/9)**, com foco em desenvolvimento
 
 ---
 
-## 🏆 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=21v1u5&theme=darkhub&no-frame=true&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📊 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21v1u5&layout=compact&theme=tokyonight)
-
----
-
-## 🐍 Snake das Contribuições
+<p align="left">
+  <img
+  <img 
+    alt="Estatísticas de 21v1u5" 
+    height="150"
+    src="https://github-readme-stats.vercel.app/api?username=21v1u5&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&hide_title=true"
+    height="150" 
+    src="https://github-readme-stats.vercel.app/api?username=21v1u5&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&hide_title=true" 
+  />
+  <img 
+    alt="Linguagens mais usadas por 21v1u5" 
+    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=21v1u5&theme=tokyonight&layout=compact&langs_count=10&hide_title=true"
+    height="150" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=21v1u5&theme=tokyonight&layout=compact&langs_count=10&hide_title=true" 
+  />
+</p>
 
 <p align="center">
+  <img
   <img 
-    src="https://raw.githubusercontent.com/21v1u5/21v1u5/output/dist/github-contribution-snake.svg" 
+    src="https://raw.githubusercontent.com/21v1u5/21v1u5/main/dist/github-contribution-snake.svg" 
     alt="GitHub Contribution Snake"
+    alt="GitHub Contribution Snake" 
+    style="max-width: 100%;" 
   />
 </p>
 
