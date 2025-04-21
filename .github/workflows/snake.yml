@@ -8,17 +8,23 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      - name: Gerar Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: 21v1u5
           outputs: |
             dist/github-contribution-snake.svg
             dist/github-contribution-snake-dark.svg
-      - name: Commit files
-        run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
-          git add dist/
-          git commit -m "generate contribution snake" || echo "No changes to commit"
-          git push
+
+      - name: Commit e Push do arquivo gerado
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "generate contribution snake"
+          add: "dist/*.svg"
