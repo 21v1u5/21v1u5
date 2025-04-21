@@ -45,7 +45,7 @@ Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e práti
 
 # 🎓 Experiência Acadêmica
 
-## 🎓 Formação Passada (imcompleta)
+## 🎓 Formação Passada (incompleta)
 
 Iniciei minha trajetória na graduação em **Matemática Bacharelado**, onde cursei até o 4º período. Apesar de não ter concluído, aproveitei ao máximo disciplinas que hoje são fundamentais para minha atuação com tecnologia:
 
