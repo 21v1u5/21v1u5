@@ -1,30 +1,30 @@
-name: Generate Snake
+name: 🐍 GitHub Contribution Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # roda uma vez por dia, pode ajustar
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout do código
+      - name: 📥 Checkout do código
         uses: actions/checkout@v3
 
-      - name: Gerar Snake
+      - name: 🐍 Gerar animação da cobrinha
         uses: Platane/snk@v3
         with:
-          github_user_name: 21v1u5
+          github_user_name: RoberthFurtadoDev
           outputs: |
             dist/github-contribution-snake.svg
             dist/github-contribution-snake-dark.svg
 
-      - name: Commit e push da snake
+      - name: 📤 Commit e push dos SVGs
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "generate contribution snake"
+          message: "chore: atualiza snake.svg"
           add: "dist/*.svg"
