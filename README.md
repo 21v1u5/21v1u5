@@ -1,4 +1,4 @@
-# 👨‍💻 Sobre mim
+1# 👨‍💻 Sobre mim
 
 Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e prática que combina **raciocínio lógico,hacking, criptografia, algoritmos e engenharia de software**.
 
@@ -108,22 +108,22 @@ Atualmente curso **Engenharia de Software (1º/9)**, com foco em desenvolvimento
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img
+  <img 
     alt="Estatísticas de 21v1u5" 
-    height="150"
-    src="https://github-readme-stats.vercel.app/api?username=21v1u5&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&hide_title=true"
+    height="150" 
+    src="https://github-readme-stats.vercel.app/api?username=21v1u5&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&hide_title=true" 
   />
   <img 
     alt="Linguagens mais usadas por 21v1u5" 
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=21v1u5&theme=tokyonight&layout=compact&langs_count=10&hide_title=true"
+    height="150" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=21v1u5&theme=tokyonight&layout=compact&langs_count=10&hide_title=true" 
   />
 </p>
 
 <p align="center">
-  <img
+  <img 
     src="https://raw.githubusercontent.com/21v1u5/21v1u5/main/dist/github-contribution-snake.svg" 
-    alt="GitHub Contribution Snake"
+    alt="GitHub Contribution Snake" 
     style="max-width: 100%;" 
   />
 </p>
