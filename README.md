@@ -1,10 +1,12 @@
 # 👨‍💻 Sobre mim
 
-Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e prática que combina **raciocínio lógico, algoritmos e engenharia de software**.
+Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e prática que combina **raciocínio lógico,hacking, criptografia, algoritmos e engenharia de software**.
 
 ---
 
-## 🎓 Experiência Acadêmica
+# 🎓 Experiência Acadêmica
+
+## 🎓 Formação Passada (imcompleta)
 
 Iniciei minha trajetória na graduação em **Matemática Bacharelado**, onde cursei até o 4º período. Apesar de não ter concluído, aproveitei ao máximo disciplinas que hoje são fundamentais para minha atuação com tecnologia:
 
@@ -21,27 +23,28 @@ Esses conhecimentos são essenciais para **maximizar a eficiência de algoritmos
 
 ---
 
-## 🎓 Formação Atual
+## 🎓 Formação Atual (cursando)
 
 Atualmente curso **Engenharia de Software (1º/9)**, com foco em desenvolvimento e fundamentos de sistemas.
 
 - 🐧 Linux Internals  
-- 🌐 Redes e Infraestrutura  
-- 🐳 Docker  
+- 🌐 Redes e Infraestrutura    
 - 🧠 Arquitetura de Computadores  
+- 🔗 Protocolos Web (HTTP, FTP)
 
 ---
 
-## 💻 Tecnologias do Dia a Dia
+### 💻 Tecnologias do Dia a Dia
 
 - ☕ **Java** – Spring, Android Studio  
 - 🌐 **HTML, CSS, JavaScript** – React  
 - 🗃️ **MySQL** – MariaDB  
 - 🔧 **Git** – GitHub  
-
+- 🐳 **Docker**
+  
 ---
 
-## 🛠️ Outras Linguagens que estudo em projetos pessoais
+### 🛠️ Outras Linguagens que estudo em projetos pessoais
 
 - ⚙️ **C** – Sistemas embarcados (ESP32, Arduino)  
 - 🐍 **Python** – Análise de Dados  
