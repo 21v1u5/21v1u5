@@ -122,7 +122,7 @@ Atualmente curso **Engenharia de Software (1º/9)**, com foco em desenvolvimento
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/21v1u5/21v1u5/output/dist/github-contribution-snake.svg" 
+    src="https://raw.githubusercontent.com/21v1u5/21v1u5/main/dist/github-contribution-snake.svg" 
     alt="GitHub Contribution Snake"
     style="max-width: 100%;" 
   />
