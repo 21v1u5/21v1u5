@@ -3,7 +3,7 @@ name: 🐍 GitHub Contribution Snake
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # roda uma vez por dia, pode ajustar
+    - cron: '0 0 * * *' # roda uma vez por dia (meia-noite)
 
 jobs:
   generate-snake:
@@ -28,3 +28,5 @@ jobs:
           author_email: github-actions@github.com
           message: "chore: atualiza snake.svg"
           add: "dist/*.svg"
+          default_author: github_actions
+          push: true
