@@ -2,8 +2,15 @@
 
 Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e prática que combina **raciocínio lógico,hacking, criptografia, algoritmos e engenharia de software**.
 
----
 
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/21v1u5/count.svg"
+    alt="Contador de Visitas"
+  />
+</p>
+
+---
 # 🎓 Experiência Acadêmica
 
 ## 🎓 Formação Passada (imcompleta)
