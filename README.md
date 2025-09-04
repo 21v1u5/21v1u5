@@ -4,13 +4,6 @@ Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e práti
 
 
 <p align="center">
-  <img
-    src="https://profile-counter.glitch.me/21v1u5/count.svg"
-    alt="Contador de Visitas"
-  />
-</p>
-
-<p align="center">
   <a href="https://github.com/21v1u5">
     <img 
       alt="Total de estrelas" 
@@ -79,56 +72,34 @@ Atualmente curso **Engenharia de Software (2º/9)**, com foco em desenvolvimento
 
 ### 💻 Tecnologias do Dia a Dia
 
-- ☕ **python** – Django,FastAPI  
-- 🌐 **HTML, CSS, JavaScript**
-- 🗃️ **MySQL** – MariaDB  
-- 🔧 **Git** – GitHub  
-
+- 🤖 **Ferramentas** - Soc e automação 
+- ☕ **Back** – Python,Django,FastAPI  
+- 🌐 **Front** - HTML, CSS, JavaScript
+- 🗃️ **Banco de dados** – MariaDB  
+- 🔧 **Versionamento** – GIT
+- ☁️ **Cloud** - AWS
+- 
 
 ### 🛠️ Tecnologias em Estudo (Projetos Pessoais)
 
 - ⚙️ **C** – Sistemas embarcados (ESP32, Arduino)  
-- 🐍 **Python** – Análise de Dados  
+- 🐍 **Python** – Análise de Dados e ferramentas SOC
 - 🧬 **Assembly** – Análise profunda de programas  
 - 💻 **PowerShell & Bash** – Scripts de automação e segurança  
 - 🖱️ **Duckyscript** – BadUSB  
 - 🛡️ **SQL & XSS Injection** – Segurança e testes de vulnerabilidades
+- 📊 **analise** - wireshark e Nmap
 
 ---
 
 
-## 🎯 Áreas de Atuação e Interesses Profissionais
+## 🎯 Áreas de Interesses Profissionais
 
 - 🔐 Cibersegurança e Hacking Ético  
-- ⚙️ Engenharia de Software e Desenvolvimento Backend  
+- ⚙️ Engenharia de Software 
 - 🌐 Desenvolvimento Web Full Stack  
-- 📲 Desenvolvimento Mobile Android  
 - 📊 Análise e Ciência de Dados  
 - 🛠️ Sistemas Embarcados e Internet das Coisas (IoT)  
 
 ---
 
-# 📊 Estatísticas do GitHub (repositórios públicos)
-
-<p align="left">
-  <img 
-    alt="Estatísticas de 21v1u5" 
-    height="150"
-    src="https://github-readme-stats.vercel.app/api?username=21v1u5&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&hide_title=true" 
-  />
-  <img 
-    alt="Linguagens mais usadas por 21v1u5" 
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=21v1u5&theme=tokyonight&layout=compact&langs_count=10&hide_title=true" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/21v1u5/21v1u5/main/dist/github-contribution-snake.svg" 
-    alt="GitHub Contribution Snake"
-    style="max-width: 100%;" 
-  />
-</p>
-
----
