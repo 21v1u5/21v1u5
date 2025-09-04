@@ -75,7 +75,6 @@ Atualmente curso **Engenharia de Software (2º/9)**, com foco em desenvolvimento
 
 ### 💻 Tecnologias do Dia a Dia
 
-- 🤖 **Automação** - Soc e bots 
 - ☕ **Back** – Python,Django,FastAPI  
 - 🌐 **Front** - HTML, CSS, JavaScript
 - 🗃️ **Banco de dados** – mySQL e SQL
@@ -85,14 +84,14 @@ Atualmente curso **Engenharia de Software (2º/9)**, com foco em desenvolvimento
 
 ### 🛠️ Tecnologias em Estudo (Projetos Pessoais)
 
-- ⚙️ **C** – Sistemas embarcados (ESP32, Arduino)  
+- ⚙️ **C** – Sistemas embarcados e dev malware
 - 🐍 **Python** – Análise de Dados e ferramentas SOC
 - 🧬 **Assembly** – Análise profunda de programas  
 - 💻 **PowerShell & Bash** – Scripts de automação e segurança  
 - 🖱️ **Duckyscript** – BadUSB  
 - 🛡️ **Test de Segurança** – Burpsuite e Metasploit
 - 📊 **Análise de rede** - wireshark e Nmap
-- 👾 **Dev malware** - Go,python e C
+
 
 ---
 
