@@ -64,7 +64,7 @@ Esses conhecimentos são essenciais para **maximizar a eficiência de algoritmos
 
 ### 🎓 Formação Atual (cursando)
 
-Atualmente curso **Engenharia de Software (1º/9)**, com foco em desenvolvimento e fundamentos de sistemas:
+Atualmente curso **Engenharia de Software (2º/9)**, com foco em desenvolvimento e fundamentos de sistemas:
 
 - 🐧 Linux Internals  
 - 🌐 Redes e Infraestrutura    
@@ -79,11 +79,11 @@ Atualmente curso **Engenharia de Software (1º/9)**, com foco em desenvolvimento
 
 ### 💻 Tecnologias do Dia a Dia
 
-- ☕ **Java** – Spring, Android Studio  
-- 🌐 **HTML, CSS, JavaScript** – React  
+- ☕ **python** – Django,FastAPI  
+- 🌐 **HTML, CSS, JavaScript**
 - 🗃️ **MySQL** – MariaDB  
 - 🔧 **Git** – GitHub  
-- 🐳 **Docker**
+
 
 ### 🛠️ Tecnologias em Estudo (Projetos Pessoais)
 
@@ -96,23 +96,6 @@ Atualmente curso **Engenharia de Software (1º/9)**, com foco em desenvolvimento
 
 ---
 
-## 📚 Noções e Fundamentos que Estudo
-
-Além da formação acadêmica, estudo constantemente os principais pilares do desenvolvimento profissional moderno:
-
-- 📌 Algoritmos & Estrutura de Dados  
-- ⚙️ Big-O Notation (Notação Assintótica)  
-- 🧱 Design de Sistemas Distribuídos  
-- 🧩 Princípios SOLID  
-- 🌐 RESTful APIs  
-- 🧪 Testes Unitários (Unit Test)  
-- 📊 Métricas & Logs  
-- 🕒 Programação Assíncrona (Async)  
-- 📬 Filas (Queues) e Mensageria  
-
-> Esses conhecimentos são essenciais para construir sistemas escaláveis, robustos e de fácil manutenção.
-
----
 
 ## 🎯 Áreas de Atuação e Interesses Profissionais
 
