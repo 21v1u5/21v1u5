@@ -60,11 +60,14 @@ Esses conhecimentos são essenciais para **maximizar a eficiência de algoritmos
 Atualmente curso **Engenharia de Software (2º/9)**, com foco em desenvolvimento e fundamentos de sistemas:
 
 - 🐧 Linux Internals  
-- 🌐 Redes e Infraestrutura    
+- 🌐 Redes, Infraestrutura e Protocolos
 - 🧠 Arquitetura de Computadores  
-- 🔗 Protocolos Web (HTTP, FTP)  
 - 🔢 Lógica de Programação e Algoritmos  
 - 🗂️ Estrutura de Dados  
+- 🏛️ arquiterura de software 
+- 👨‍💻 DevOps
+- 🏰 SocOps
+- 🗂️ Gestao de projetos 
 
 ---
 
@@ -72,13 +75,13 @@ Atualmente curso **Engenharia de Software (2º/9)**, com foco em desenvolvimento
 
 ### 💻 Tecnologias do Dia a Dia
 
-- 🤖 **Ferramentas** - Soc e automação 
+- 🤖 **Automação** - Soc e bots 
 - ☕ **Back** – Python,Django,FastAPI  
 - 🌐 **Front** - HTML, CSS, JavaScript
-- 🗃️ **Banco de dados** – MariaDB  
+- 🗃️ **Banco de dados** – mySQL e SQL
 - 🔧 **Versionamento** – GIT
 - ☁️ **Cloud** - AWS
-- 
+- 👨‍🏫 **Metodologia agil** - scrum e kanban
 
 ### 🛠️ Tecnologias em Estudo (Projetos Pessoais)
 
@@ -87,8 +90,9 @@ Atualmente curso **Engenharia de Software (2º/9)**, com foco em desenvolvimento
 - 🧬 **Assembly** – Análise profunda de programas  
 - 💻 **PowerShell & Bash** – Scripts de automação e segurança  
 - 🖱️ **Duckyscript** – BadUSB  
-- 🛡️ **SQL & XSS Injection** – Segurança e testes de vulnerabilidades
-- 📊 **analise** - wireshark e Nmap
+- 🛡️ **Test de Segurança** – Burpsuite e Metasploit
+- 📊 **Análise de rede** - wireshark e Nmap
+- 👾 **Dev malware** - Go,python e C
 
 ---
 
@@ -96,6 +100,7 @@ Atualmente curso **Engenharia de Software (2º/9)**, com foco em desenvolvimento
 ## 🎯 Áreas de Interesses Profissionais
 
 - 🔐 Cibersegurança e Hacking Ético  
+- 🚨 Blue team ou SocOps
 - ⚙️ Engenharia de Software 
 - 🌐 Desenvolvimento Web Full Stack  
 - 📊 Análise e Ciência de Dados  
