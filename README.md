@@ -37,8 +37,6 @@ Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e práti
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=21v1u5&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21v1u5&layout=compact&theme=radical)
-
 ---
 
 ## 🎓 Experiência Acadêmica
@@ -111,8 +109,4 @@ Atualmente curso **Engenharia de Software (2º/9)**, com foco em desenvolvimento
 - 🛠️ Sistemas Embarcados e Internet das Coisas (IoT)  
 
 ---
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21v1u5&layout=compact&theme=radical)
