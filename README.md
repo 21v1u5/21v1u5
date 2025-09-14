@@ -110,3 +110,6 @@ Atualmente curso **Engenharia de Software (2º/9)**, com foco em desenvolvimento
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21v1u5&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21v1u5&exclude_repo=exercicios_da_facul,gerenciador_CLI,login_web_page&layout=compact&theme=radical)
+
