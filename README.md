@@ -37,6 +37,8 @@ Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e práti
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=21v1u5&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21v1u5&layout=compact&theme=radical)
+
 ---
 
 ## 🎓 Experiência Acadêmica
