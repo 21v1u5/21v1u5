@@ -42,12 +42,12 @@ Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e práti
 
 Apaixonado por **matemática** e **tecnologia**, trilho uma jornada que combina raciocínio lógico, algoritmos e engenharia de software. Tenho uma base sólida em:  
 
-- OS Internals (Linux e Windows)  
-- Redes e Infraestrutura  
-- Arquitetura de Computadores  
-- Lógica de Programação  
-- Algoritmos e Estruturas de Dados  
-- Desenvolvimento de Software  
+- 🖥️ **OS Internals** (Linux e Windows)  
+- 🌐 **Redes e Infraestrutura**  
+- 💾 **Arquitetura de Computadores**  
+- 📐 **Lógica de Programação**  
+- 📊 **Algoritmos e Estruturas de Dados**  
+- ⚙️ **Desenvolvimento de Software**   
 
 ---
 
@@ -55,16 +55,16 @@ Apaixonado por **matemática** e **tecnologia**, trilho uma jornada que combina 
 
 Atualmente curso **Engenharia de Software (2º/9)**, aprofundando meus conhecimentos em:  
 
-- Testes de Software  
-- Design Patterns  
-- Design de Sistemas  
-- Arquitetura de Software  
-- Versionamento de Código  
-- Orquestração  
-- Observabilidade e Monitoramento  
-- Escalabilidade e Performance  
-- DevOps & SRE  
-- Gestão de Projetos  
+- 🧪 Testes de Software  
+- 🧩 Design Patterns  
+- 🏗️ Design de Sistemas  
+- 🏛️ Arquitetura de Software  
+- 🔄 Versionamento de Código  
+- ☸️ Orquestração  
+- 👀 Observabilidade & Monitoramento  
+- ⚡ Escalabilidade & Performance  
+- 🚀 DevOps & SRE  
+- 📊 Gestão de Projetos  
 
 ---
 
@@ -86,13 +86,14 @@ Atualmente curso **Engenharia de Software (2º/9)**, aprofundando meus conhecime
 
 Minha trajetória acadêmica começou na graduação em **Matemática Bacharelado**, onde cursei até o 4º período. Apesar de não ter concluído, absorvi disciplinas que hoje fortalecem minha base tecnológica:  
 
-- Álgebra Linear I  
-- Geometria Plana & Espacial  
-- Fundamentos da Matemática  
-- Cálculo Vetorial e Geometria Analítica  
-- Desenho Geométrico e Geometria Descritiva  
-- Estatística Aplicada  
-- Introdução à Computação  
+- ➗ Álgebra Linear I  
+- 📏 Geometria Plana & Espacial  
+- 📚 Fundamentos da Matemática  
+- 🔢 Cálculo Vetorial & Geometria Analítica  
+- ✏️ Desenho Geométrico & Geometria Descritiva  
+- 📊 Estatística Aplicada  
+- 💻 Introdução à Computação
+
 
 Esses conhecimentos matemáticos são fundamentais para **otimizar algoritmos** e compreender a **base teórica por trás da tecnologia**.  
 
