@@ -38,68 +38,68 @@ Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e práti
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=21v1u5&show_icons=true&theme=radical)
 
 ---
+## 👨‍💻 Sobre mim  
 
-## 🎓 Experiência Acadêmica
+Apaixonado por **matemática** e **tecnologia**, trilho uma jornada que combina raciocínio lógico, algoritmos e engenharia de software. Tenho uma base sólida em:  
 
-### 🎓 Formação Passada (incompleta)
-
-Iniciei minha trajetória na graduação em **Matemática Bacharelado**, onde cursei até o 4º período. Apesar de não ter concluído, aproveitei ao máximo disciplinas que hoje são fundamentais para minha atuação com tecnologia:
-
-- 📐 Álgebra Linear I  
-- 🧭 Geometria Plana & Espacial  
-- 🧮 Fundamentos da Matemática  
-- 📊 Cálculo Vetorial e Geometria Analítica  
-- ✏️ Desenho Geométrico e Geometria Descritiva  
-- 📈 Estatística Aplicada  
-- 💻 Introdução à Computação  
-
-Esses conhecimentos são essenciais para **maximizar a eficiência de algoritmos** e compreender a base matemática que impulsiona a tecnologia.  
-> *Se você busca alguém que vai além do código superficial, podemos conversar!* 📊🔍
+- OS Internals (Linux e Windows)  
+- Redes e Infraestrutura  
+- Arquitetura de Computadores  
+- Lógica de Programação  
+- Algoritmos e Estruturas de Dados  
+- Desenvolvimento de Software  
 
 ---
 
-### 🎓 Formação Atual (cursando)
+## 🎓 Formação Atual  
 
-Atualmente curso **Engenharia de Software (2º/9)**, com foco em desenvolvimento e fundamentos de sistemas:
+Atualmente curso **Engenharia de Software (2º/9)**, aprofundando meus conhecimentos em:  
 
-- 🐧 Linux Internals  
-- 🌐 Redes, Infraestrutura e Protocolos
-- 🧠 Arquitetura de Computadores  
-- 🔢 Lógica de Programação e Algoritmos  
-- 🗂️ Estrutura de Dados  
-- 🏛️ arquiterura de software 
-- 👨‍💻 DevOps
-- 🏰 SocOps
-- 🗂️ Gestao de projetos 
-
----
-
-## 🖥️ Tecnologias & Linguagens
-
-### 💻 Tecnologias do Dia a Dia
-
-- ☕ **Back** – Python,Django,FastAPI  
-- 🌐 **Front** - HTML, CSS, JavaScript
-- 🗃️ **Banco de dados** – mySQL e SQL
-- 🔧 **Versionamento** – GIT
-- ☁️ **Cloud** - AWS
-- 👨‍🏫 **Metodologia agil** - scrum e kanban
-
-### 🛠️ Tecnologias em Estudo (Projetos Pessoais)
-
-- ⚙️ **C** – Sistemas embarcados e dev malware
-- 🐍 **Python** – Análise de Dados e ferramentas SOC
-- 🧬 **Assembly** – Análise profunda de programas  
-- 💻 **PowerShell & Bash** – Scripts de automação e segurança  
-- 🖱️ **Duckyscript** – BadUSB  
-- 🛡️ **Test de Segurança** – Burpsuite e Metasploit
-- 📊 **Análise de rede** - wireshark e Nmap
-
+- Testes de Software  
+- Design Patterns  
+- Design de Sistemas  
+- Arquitetura de Software  
+- Versionamento de Código  
+- Orquestração  
+- Observabilidade e Monitoramento  
+- Escalabilidade e Performance  
+- DevOps & SRE  
+- Gestão de Projetos  
 
 ---
 
+## ⚙️ Stacks e Ferramentas  
 
-## 🎯 Áreas de Interesses Profissionais
+- **Linguagens**: Go, Python  
+- **Frameworks**: Gin, Django  
+- **Versionamento e APIs**: Git & GitHub, Swagger, Postman  
+- **Sistemas Operacionais**: Debian Linux  
+- **Infraestrutura**: Kubernetes, Docker  
+- **Monitoramento**: Grafana  
+- **Bancos de Dados**: MySQL, MongoDB  
+- **Segurança**: OAuth2, WAF  
+- **Metodologias Ágeis**: Scrum, Kanban, XP  
+
+---
+
+## 🎓 Experiência Acadêmica  
+
+Minha trajetória acadêmica começou na graduação em **Matemática Bacharelado**, onde cursei até o 4º período. Apesar de não ter concluído, absorvi disciplinas que hoje fortalecem minha base tecnológica:  
+
+- Álgebra Linear I  
+- Geometria Plana & Espacial  
+- Fundamentos da Matemática  
+- Cálculo Vetorial e Geometria Analítica  
+- Desenho Geométrico e Geometria Descritiva  
+- Estatística Aplicada  
+- Introdução à Computação  
+
+Esses conhecimentos matemáticos são fundamentais para **otimizar algoritmos** e compreender a **base teórica por trás da tecnologia**.  
+
+---
+
+
+### 🎯 Áreas de Interesses Profissionais
 
 - 🔐 Cibersegurança e Hacking Ético  
 - 🚨 Blue team ou SocOps
@@ -108,5 +108,17 @@ Atualmente curso **Engenharia de Software (2º/9)**, com foco em desenvolvimento
 - 📊 Análise e Ciência de Dados  
 - 🛠️ Sistemas Embarcados e Internet das Coisas (IoT)  
 
----
+ ---
+
+## 🛠️ Tecnologias em Estudo (Projetos Pessoais)
+
+- ⚙️ **C** – Sistemas embarcados e dev malware
+- 🐍 **Python** – Análise de Dados
+- 🧬 **Assembly** – Análise profunda de programas  
+- 💻 **PowerShell & Bash** – Scripts de automação e segurança  
+- 🖱️ **Duckyscript** – BadUSB  
+- 🛡️ **Test de Segurança** – Burpsuite e Metasploit
+- 📊 **Análise de rede** - wireshark e Nmap
+
+
 
