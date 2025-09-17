@@ -74,15 +74,15 @@ Atualmente curso **Engenharia de Software (2º/9)**, aprofundando meus conhecime
 - **Frameworks**: Gin, Django  
 - **Versionamento e APIs**: Git & GitHub, Swagger, Postman  
 - **Sistemas Operacionais**: Debian Linux  
-- **Infraestrutura**: Kubernetes, Docker  
+- **Infraestrutura**: Kubernetes, Docker e Docker Compose
 - **Monitoramento**: Grafana  
-- **Bancos de Dados**: MySQL, MongoDB  
+- **Bancos de Dados**: PostgreSQL, MongoDB  
 - **Segurança**: OAuth2, WAF  
 - **Metodologias Ágeis**: Scrum, Kanban, XP  
 
 ---
 
-## 🎓 Experiência Acadêmica  
+## 🎓 Experiência Acadêmica Passadas
 
 Minha trajetória acadêmica começou na graduação em **Matemática Bacharelado**, onde cursei até o 4º período. Apesar de não ter concluído, absorvi disciplinas que hoje fortalecem minha base tecnológica:  
 
@@ -99,7 +99,6 @@ Esses conhecimentos matemáticos são fundamentais para **otimizar algoritmos** 
 
 ---
 
-
 ### 🎯 Áreas de Interesses Profissionais
 
 - 🔐 Cibersegurança e Hacking Ético  
@@ -111,10 +110,10 @@ Esses conhecimentos matemáticos são fundamentais para **otimizar algoritmos** 
 
  ---
 
-## 🛠️ Tecnologias em Estudo (Projetos Pessoais)
+## 🛠️ Tecnologias em Estudo (Projetos Pessoais(SEC))
 
-- ⚙️ **C** – Sistemas embarcados e dev malware
-- 🐍 **Python** – Análise de Dados
+- ⚙️ **GO** – Dev malware
+- 🐍 **Python** – Análise de Dados e ferramentas de análise de redes
 - 🧬 **Assembly** – Análise profunda de programas  
 - 💻 **PowerShell & Bash** – Scripts de automação e segurança  
 - 🖱️ **Duckyscript** – BadUSB  
