@@ -38,87 +38,25 @@ Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e práti
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=21v1u5&show_icons=true&theme=radical)
 
 ---
-## 👨‍💻 Sobre mim  
+👨‍💻 Desenvolvedor Go e Python com experiência em automação, APIs REST, microsserviços e integração de sistemas. 
+Atuo em projetos de **freelancer** e **consultoria**, entregando soluções escaláveis e sob medida. 
 
-Apaixonado por **matemática** e **tecnologia**, trilho uma jornada que combina raciocínio lógico, algoritmos e engenharia de software. Tenho uma base sólida em:  
+🎓 Estudante de **Engenharia de Software** (graduação em andamento), aprofundando conhecimentos em **algoritmos, arquitetura de sistemas, banco de dados e boas práticas de desenvolvimento de software**. 
 
-- 🖥️ **OS Internals** (Linux e Windows)  
-- 🌐 **Redes e Infraestrutura**  
-- 💾 **Arquitetura de Computadores**  
-- 📐 **Lógica de Programação**  
-- 📊 **Algoritmos e Estruturas de Dados**  
-- ⚙️ **Desenvolvimento de Software**   
+🔒 Além disso, estudo **Cibersegurança**, com foco em **SOC Analyst** (monitoramento e resposta a incidentes) e **Pentest** (testes de intrusão e segurança ofensiva). 
+Isso me dá uma visão completa de **desenvolvimento seguro**, alinhado a boas práticas de proteção de dados e infraestrutura. 
 
----
+Tenho prática em:
+- Backend escalável com Go (Gin, GORM, gRPC, Docker, Kubernetes) 
+- Desenvolvimento rápido de soluções com Python (FastAPI, Django, automação, análise de dados) 
+- Integrações com APIs externas, bots e dashboards interativos 
+- Cloud & DevOps (Docker, Compose, Redis, PostgreSQL, RabbitMQ, Kafka) 
+- Segurança: SIEM, SOC, pentest, redes e análise de vulnerabilidades 
 
-## 🎓 Formação Atual  
-
-Atualmente curso **Engenharia de Software (2º/9)**, aprofundando meus conhecimentos em:  
-
-- 🧪 Testes de Software  
-- 🧩 Design Patterns  
-- 🏗️ Design de Sistemas  
-- 🏛️ Arquitetura de Software  
-- 🔄 Versionamento de Código  
-- ☸️ Orquestração  
-- 👀 Observabilidade & Monitoramento  
-- ⚡ Escalabilidade & Performance  
-- 🚀 DevOps & SRE  
-- 📊 Gestão de Projetos  
-
----
-
-## ⚙️ Stacks e Ferramentas  
-
-- **Linguagens**: Go, Python  
-- **Frameworks**: Gin, Django  
-- **Versionamento e APIs**: Git & GitHub, Swagger, Postman  
-- **Sistemas Operacionais**: Debian Linux  
-- **Infraestrutura**: Kubernetes, Docker e Docker Compose
-- **Monitoramento**: Grafana  
-- **Bancos de Dados**: PostgreSQL, MongoDB  
-- **Segurança**: OAuth2, WAF  
-- **Metodologias Ágeis**: Scrum, Kanban, XP  
-
----
-
-## 🎓 Experiência Acadêmica Passadas
-
-Minha trajetória acadêmica começou na graduação em **Matemática Bacharelado**, onde cursei até o 4º período. Apesar de não ter concluído, absorvi disciplinas que hoje fortalecem minha base tecnológica:  
-
-- ➗ Álgebra Linear I  
-- 📏 Geometria Plana & Espacial  
-- 📚 Fundamentos da Matemática  
-- 🔢 Cálculo Vetorial & Geometria Analítica  
-- ✏️ Desenho Geométrico & Geometria Descritiva  
-- 📊 Estatística Aplicada  
-- 💻 Introdução à Computação
+Sempre focado em **entregar valor real** para o cliente, com código limpo, testes e documentação.
+ 
 
 
-Esses conhecimentos matemáticos são fundamentais para **otimizar algoritmos** e compreender a **base teórica por trás da tecnologia**.  
-
----
-
-### 🎯 Áreas de Interesses Profissionais
-
-- 🔐 Cibersegurança e Hacking Ético  
-- 🚨 Blue team ou SocOps
-- ⚙️ Engenharia de Software 
-- 🌐 Desenvolvimento Web Full Stack  
-- 📊 Análise e Ciência de Dados  
-- 🛠️ Sistemas Embarcados e Internet das Coisas (IoT)  
-
- ---
-
-## 🛠️ Tecnologias em Estudo (Projetos Pessoais(SEC))
-
-- ⚙️ **GO** – Dev malware
-- 🐍 **Python** – Análise de Dados e ferramentas de análise de redes
-- 🧬 **Assembly** – Análise profunda de programas  
-- 💻 **PowerShell & Bash** – Scripts de automação e segurança  
-- 🖱️ **Duckyscript** – BadUSB  
-- 🛡️ **Test de Segurança** – Burpsuite e Metasploit
-- 📊 **Análise de rede** - wireshark e Nmap
-
+🎯 Meta: Consolidar minha carreira em cibersegurança e integrar o time da Google como Security Engineer/Architect, contribuindo para soluções escaláveis, resilientes e seguras.
 
 
