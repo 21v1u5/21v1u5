@@ -2,7 +2,6 @@
 
 Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e prática que combina **raciocínio lógico, algoritmos e engenharia de software**.
 
-
 <p align="center">
   <a href="https://github.com/21v1u5">
     <img 
@@ -35,9 +34,20 @@ Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e práti
 </p>
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=21v1u5&show_icons=true&theme=radical)
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=21v1u5&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21v1u5&layout=compact&langs_count=7&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21v1u5&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
+
 👨‍💻 Desenvolvedor Go e Python com experiência em automação, APIs REST, microsserviços e integração de sistemas. 
 Atuo em projetos de **freelancer** e **consultoria**, entregando soluções escaláveis e sob medida. 
 
@@ -46,17 +56,13 @@ Atuo em projetos de **freelancer** e **consultoria**, entregando soluções esca
 🔒 Além disso, estudo **Cibersegurança**, com foco em **SOC Analyst** (monitoramento e resposta a incidentes) e **Pentest** (testes de intrusão e segurança ofensiva). 
 Isso me dá uma visão completa de **desenvolvimento seguro**, alinhado a boas práticas de proteção de dados e infraestrutura. 
 
-Tenho prática em:
-- Backend escalável com Go (Gin, GORM, gRPC, Docker, Kubernetes) 
-- Desenvolvimento rápido de soluções com Python (FastAPI, Django, automação, análise de dados) 
-- Integrações com APIs externas, bots e dashboards interativos 
-- Cloud & DevOps (Docker, Compose, Redis, PostgreSQL, RabbitMQ, Kafka) 
-- Segurança: SIEM, SOC, pentest, redes e análise de vulnerabilidades 
+**Tenho prática em:**
+- 🚀 Backend escalável com Go (Gin, GORM, gRPC, Docker, Kubernetes) 
+- 🐍 Desenvolvimento rápido com Python (FastAPI, Django, automação, análise de dados) 
+- 🤖 Integrações com APIs externas, bots e dashboards interativos 
+- ☁️ Cloud & DevOps (Docker, Compose, Redis, PostgreSQL, RabbitMQ, Kafka) 
+- 🛡️ Segurança: SIEM, SOC, pentest, redes e análise de vulnerabilidades 
 
 Sempre focado em **entregar valor real** para o cliente, com código limpo, testes e documentação.
- 
 
-
-🎯 Meta: Consolidar minha carreira em cibersegurança e integrar o time da Google como Security Engineer/Architect, contribuindo para soluções escaláveis, resilientes e seguras.
-
-
+🎯 **Meta:** Consolidar minha carreira em cibersegurança e integrar o time da Google como Security Engineer/Architect, contribuindo para soluções escaláveis, resilientes e seguras.
