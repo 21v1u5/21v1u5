@@ -41,10 +41,7 @@ Isso me dá uma visão completa de **desenvolvimento seguro**, alinhado a boas p
 - 🤖 Integrações com APIs externas, bots e dashboards interativos 
 - ☁️ Cloud & DevOps (Docker, Compose, Redis, PostgreSQL, RabbitMQ, Kafka) 
 - 🛡️ Segurança: SIEM, SOC, pentest, redes e análise de vulnerabilidades 
-**Domínio Técnico:**
-- **Backend:** Go (Gin, GORM, gRPC), Python (FastAPI, Django)
-- **Infra:** Docker, Kubernetes, Redis, RabbitMQ, Kafka
-- **Segurança:** Monitoramento SIEM, Pentest, Análise de Vulnerabilidades
+
 
 🎯 **Meta:** Consolidar minha carreira em cibersegurança e integrar o time da Google como Security Engineer/Architect.
 
@@ -52,8 +49,4 @@ Sempre focado em **entregar valor real** para o cliente, com código limpo, test
 ---
 
 🎯 **Meta:** Consolidar minha carreira em cibersegurança e integrar o time da Google como Security Engineer/Architect, contribuindo para soluções escaláveis, resilientes e seguras.
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/21v1u5/21v1u5/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/21v1u5/21v1u5/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/21v1u5/21v1u5/output/github-contribution-grid-snake.svg">
-</picture>
+
