@@ -4,39 +4,36 @@ Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e práti
 
 <p align="center">
   <a href="https://github.com/21v1u5">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/21v1u5?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" alt="Estrelas"/>
+    <img src="https://img.shields.io/badge/ESTRELAS-0-97ca00?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/21v1u5?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/21v1u5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores" alt="Seguidores"/>
+    <img src="https://img.shields.io/badge/SEGUIDORES-3-236ad3?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/l%C3%ADvius-penha-650a7b2a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/01001100.exe/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🏆 Conquistas e Troféus
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=21v1u5&theme=radical&no-bg=true&margin-w=4" alt="trophy" /></a>
-</p>
+### 📊 Estatísticas do GitHub
 
-### 📊 Minhas Estatísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=21v1u5&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21v1u5&layout=compact&langs_count=7&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=21v1u5&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21v1u5&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21v1u5&theme=radical" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=21v1u5&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🚀 Tecnologias e Ferramentas
+
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
