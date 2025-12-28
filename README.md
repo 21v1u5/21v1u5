@@ -12,7 +12,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=21v1u5&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21v1u5&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
