@@ -1,7 +1,5 @@
 
 ---
-
-### 📊 Estatísticas do GitHub
 ### 📊 Minhas Estatísticas
 
 <p align="center">
@@ -31,7 +29,7 @@
 </p>
 
 ---
-@@ -54,15 +68,18 @@ Atuo em projetos de **freelancer** e **consultoria**, entregando soluções esca
+  Atuo em projetos de **freelancer** e **consultoria**, entregando soluções esca
 🎓 Estudante de **Engenharia de Software** (graduação em andamento), aprofundando conhecimentos em **algoritmos, arquitetura de sistemas, banco de dados e boas práticas de desenvolvimento de software**. 
 
 🔒 Além disso, estudo **Cibersegurança**, com foco em **SOC Analyst** (monitoramento e resposta a incidentes) e **Pentest** (testes de intrusão e segurança ofensiva). 
