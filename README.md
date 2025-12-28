@@ -37,11 +37,7 @@ Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e práti
 
 ### 📊 Minhas Estatísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=21v1u5&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21v1u5&layout=compact&langs_count=7&theme=radical&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=21v1u5&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -77,9 +73,3 @@ Atuo em projetos de **freelancer** e **consultoria**, entregando soluções esca
 🎯 **Meta:** Consolidar minha carreira em cibersegurança e integrar o time da Google como Security Engineer/Architect.
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/21v1u5/21v1u5/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/21v1u5/21v1u5/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/21v1u5/21v1u5/output/github-contribution-grid-snake.svg">
-</picture>
