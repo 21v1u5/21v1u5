@@ -1,6 +1,6 @@
 # 👨‍💻 Sobre mim
 
-Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e prática que combina **raciocínio lógico, algoritmos e engenharia de software**.
+Sou apaixonado por tecnologia, segurança e infraestrutura, com uma jornada académica e prática que combina **engenharia de software, desenvolvimento backend escalável e operações (DevOps/SecOps)**.
 
 <p align="center">
   <a href="https://github.com/21v1u5">
@@ -13,21 +13,21 @@ Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e práti
   <a href="https://github.com/21v1u5?tab=followers">
     <img 
       alt="Seguidores" 
-      title="Me siga no GitHub" 
+      title="Segue-me no GitHub" 
       src="https://custom-icon-badges.demolab.com/github/followers/21v1u5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
   </a>
-  <a href="https://www.linkedin.com/in/l%C3%ADvius-penha-650a7b2a8/">
+  <a href="https://www.linkedin.com/in/lívius-penha-650a7b2a8/">
     <img 
       alt="LinkedIn" 
-      title="Me siga no LinkedIn" 
+      title="Segue-me no LinkedIn" 
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
   <a href="https://www.instagram.com/01001100.exe/">
     <img 
       alt="Instagram"
-      title="Me siga no Instagram" 
+      title="Segue-me no Instagram" 
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
@@ -35,9 +35,7 @@ Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e práti
 
 ---
 
-### 📊 Minhas Estatísticas
-
-
+### 📊 As Minhas Estatísticas
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=21v1u5&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -48,28 +46,29 @@ Sou apaixonado por matemática e tecnologia, com uma jornada acadêmica e práti
 ### 🚀 Tecnologias e Ferramentas
 
 <p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-👨‍💻 Desenvolvedor Go e Python com experiência em automação, APIs REST, microsserviços e integração de sistemas. 
-Atuo em projetos de **freelancer** e **consultoria**, entregando soluções escaláveis e sob medida. 
+👨‍💻 **Desenvolvedor de Software** com forte atuação em **PHP (Laravel)**, Python e Go. Tenho experiência em automação, APIs REST, integrações de sistemas e arquitetura baseada em contentores. Atuo em projetos de **freelancer** e **consultoria**, entregando soluções escaláveis (como sistemas de delivery e plataformas de triagem médica). 
 
-🎓 Estudante de **Engenharia de Software** (graduação em andamento), aprofundando conhecimentos em **algoritmos, arquitetura de sistemas, banco de dados e boas práticas de desenvolvimento de software**. 
+🎓 Estudante de **Engenharia de Software** (licenciatura em curso), aprofundando conhecimentos em **algoritmos, modelagem de bases de dados (MER/DER) e metodologias ativas (PBL)**. 
 
-🔒 Além disso, estudo **Cibersegurança**, com foco em **SOC Analyst** (monitoramento e resposta a incidentes) e **Pentest** (testes de intrusão e segurança ofensiva). 
+🛡️ Além do desenvolvimento, atuo como **Analista SEC / NOC**, focado em compliance de segurança, monitoramento contínuo, resposta a incidentes e infraestrutura de alta disponibilidade.
 
 **Domínio Técnico:**
-- **Backend:** Go (Gin, GORM, gRPC), Python (FastAPI, Django)
-- **Infra:** Docker, Kubernetes, Redis, RabbitMQ, Kafka
-- **Segurança:** Monitoramento SIEM, Pentest, Análise de Vulnerabilidades
+- **Backend:** PHP 8.4 (Laravel), Go, Python (FastAPI, Django), C, Rust
+- **Infraestrutura & DevOps:** Docker, Docker Compose, Traefik, Nginx, VPS, Proxmox, Linux
+- **Segurança & Monitoramento:** Zabbix, Wazuh, Cloudflare WAF, Nmap, SQLMap, Burp Suite, conceitos Red/Blue Team e Framework NIST CSF
+- **Base de Dados:** PostgreSQL, SQL Estruturado, Otimização de Consultas (ODBC)
 
-🎯 **Meta:** Consolidar minha carreira em cibersegurança e integrar o time da Google como Security Engineer/Architect.
+🎯 **Meta:** Consolidar a minha carreira desenvolvendo sistemas seguros e escaláveis em PHP, e integrar a equipa da Google como Security Engineer/Architect.
 
 ---
