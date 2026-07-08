@@ -66,15 +66,17 @@ Sou um profissional focado em tecnologia, segurança e infraestrutura, combinand
 
 ---
 
-## 📊 Atividade & Foco de Estudos
+## 📊 Estatísticas & Análise de Código
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Foco_Atual-Engenharia_de_Software_e_Cybersecurity-blue?style=for-the-badge&logo=github" alt="Foco Atual" />
-  <img src="https://img.shields.io/badge/Plataformas_de_Treino-Hack_The_Box_%7C_PortSwigger-55960c?style=for-the-badge" alt="Plataformas" />
+  <!-- Card Animado de Métricas Detalhadas (Linguagens em formato de Pizza/Donut e Commits) -->
+  <img src="https://github-readme-metrics.vercel.app/21v1u5?template=classic&base=languages%2C+commits&base.commits=true&languages=true&languages.limit=8&languages.chart=donut&theme=radical&config.animations=true" alt="Métricas de Código Animadas" width="100%" />
 </p>
 
 <p align="center">
-  Para conferir meu histórico completo de contribuições, commits e evolução diária, sinta-se à vontade para explorar a aba de <b>Repositories</b> e meu gráfico de atividade logo abaixo no perfil!
+  <!-- Card de Commits Recentes e Streak Ativo -->
+  <img src="https://github-readme-stats.vercel.app/api?username=21v1u5&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="49%" alt="Estatísticas de Commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21v1u5&theme=radical&hide_border=true" width="49%" alt="Streak de Commits" />
 </p>
 
 ---
