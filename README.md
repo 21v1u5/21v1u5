@@ -66,16 +66,4 @@ Sou um profissional focado em tecnologia, segurança e infraestrutura, combinand
 
 ---
 
-## 📊 Estatísticas & Análise de Código
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21v1u5&layout=compact&theme=radical&hide_border=true&card_width=490" alt="Linguagens Mais Usadas" width="55%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=21v1u5&theme=radical&area=true&hide_border=true" alt="Gráfico de Atividade de Commits" width="100%" />
-</p>
-
----
-
 <p align="center">⚡ "Segurança não é um produto, mas um processo." — Bruce Schneier</p>
