@@ -66,16 +66,15 @@ Sou um profissional focado em tecnologia, segurança e infraestrutura, combinand
 
 ---
 
-
-## 📊 Estatísticas do GitHub
+## 📊 Atividade & Foco de Estudos
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=21v1u5&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21v1u5&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://img.shields.io/badge/Foco_Atual-Engenharia_de_Software_e_Cybersecurity-blue?style=for-the-badge&logo=github" alt="Foco Atual" />
+  <img src="https://img.shields.io/badge/Plataformas_de_Treino-Hack_The_Box_%7C_PortSwigger-55960c?style=for-the-badge" alt="Plataformas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21v1u5&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" width="60%" />
+  Para conferir meu histórico completo de contribuições, commits e evolução diária, sinta-se à vontade para explorar a aba de <b>Repositories</b> e meu gráfico de atividade logo abaixo no perfil!
 </p>
 
 ---
