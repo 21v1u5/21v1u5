@@ -78,7 +78,7 @@ Sou um profissional focado em tecnologia, segurança e infraestrutura, combinand
   <img src="https://github-readme-stats.vercel.app/api?username=21v1u5&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="49%" alt="Estatísticas de Commits" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=21v1u5&theme=radical&hide_border=true" width="49%" alt="Streak de Commits" />
 </p>
-
+ 
 ---
 
 <p align="center">⚡ "Segurança não é um produto, mas um processo." — Bruce Schneier</p>
