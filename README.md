@@ -66,16 +66,17 @@ Sou um profissional focado em tecnologia, segurança e infraestrutura, combinand
 
 ---
 
+
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=21v1u5&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21v1u5&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=21v1u5&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21v1u5&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21v1u5&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" height="140" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21v1u5&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" width="60%" />
+</p>
 
 ---
 
