@@ -66,16 +66,6 @@ Sou um profissional focado em tecnologia, segurança e infraestrutura, combinand
 
 ---
 
-## 🛠️ Projetos em Destaque
-
-> 💡 *Abaixo estão algumas das soluções reais e laboratórios que desenvolvi. Fique à vontade para explorar os repositórios!*
-
-* 📦 **[Nome do seu Sistema de Delivery]**: Sistema white-label de delivery escalável e automatizado utilizando Django, Docker e integração de impressão automatizada.
-* 🛡️ **[Nome do seu projeto de Infra/Security]**: Ambiente de VPS seguro orquestrado via Docker Compose e Traefik com TLS automatizado (Let's Encrypt), integrado a regras de monitoramento no Wazuh e Cloudflare WAF.
-* 📊 **[Nome do seu Widget/Ferramenta]**: Widget customizado para monitoramento de recursos de hardware e rede em tempo real desenvolvido em Python.
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
