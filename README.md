@@ -69,16 +69,13 @@ Sou um profissional focado em tecnologia, segurança e infraestrutura, combinand
 ## 📊 Estatísticas & Análise de Código
 
 <p align="center">
-  <!-- Card Animado de Métricas Detalhadas (Linguagens em formato de Pizza/Donut e Commits) -->
-  <img src="https://github-readme-metrics.vercel.app/21v1u5?template=classic&base=languages%2C+commits&base.commits=true&languages=true&languages.limit=8&languages.chart=donut&theme=radical&config.animations=true" alt="Métricas de Código Animadas" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21v1u5&layout=compact&theme=radical&hide_border=true&card_width=490" alt="Linguagens Mais Usadas" width="55%" />
 </p>
 
 <p align="center">
-  <!-- Card de Commits Recentes e Streak Ativo -->
-  <img src="https://github-readme-stats.vercel.app/api?username=21v1u5&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="49%" alt="Estatísticas de Commits" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21v1u5&theme=radical&hide_border=true" width="49%" alt="Streak de Commits" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=21v1u5&theme=radical&area=true&hide_border=true" alt="Gráfico de Atividade de Commits" width="100%" />
 </p>
- 
+
 ---
 
 <p align="center">⚡ "Segurança não é um produto, mas um processo." — Bruce Schneier</p>
